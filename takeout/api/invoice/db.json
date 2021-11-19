@@ -1,14 +1,7 @@
 {
-  "register": [
+  "useinvoice": [
     { "id": 1, "FullName": "First User", "area": "1", "profession": "First Profession", "dob": "1999-01-01 12:00:00", "Email": "first.user@mail.com", "PhoneNumber": "01129093232", "Country Name": "Bangladesh", "Password": "1212121", "Confirm Password": "1212121" },
     { "id": 1, "FullName": "Second User", "area": "1", "profession": "Second Profession", "dob": "1989-01-01 12:00:00", "Email": "second.user@mail.com", "PhoneNumber": "01229093232", "Country Name": "Bangladesh", "Password": "1212121", "Confirm Password": "1212121" },
     { "id": 1, "FullName": "Third User", "area": "1", "profession": "Third Profession", "dob": "1999-01-01 12:00:00", "Email": "third.user@mail.com", "PhoneNumber": "01829093232", "Country Name": "Bangladesh", "Password": "1212121", "Confirm Password": "1212121" }
-  ],
-  "products": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "users": {
-    "name": "typicode"
-  }
+  ]
 }
